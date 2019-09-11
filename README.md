@@ -29,6 +29,10 @@ wget https://raw.githubusercontent.com/GamePLru/install/master/install.sh:chmod 
 <a href="https://drive.google.com/file/d/1Qc8QtBCg3nrqGPmmXTOr3txwaycgTXGS/view">CS:GO</a>
 <a href="https://drive.google.com/file/d/1WVFayPLPQSFJBGbaLci4oaXDmVEMMS5O/view">TF2</a>
 
+## Admin Login
+
+Username: admin@scriptgates.ru		
+Password: scriptgates
 
 #### License
 
