@@ -1,0 +1,16 @@
+rm addons/amxmodx/plugins/amxx_vip_gold.sma
+rm addons/amxmodx/plugins/amxx_vip_gold.amxx
+rm models/gold/p_knife.mdl
+rm models/gold/v_knife.mdl
+rm models/gold/w_awp.mdl
+rm models/gold/w_deagle.mdl
+rm models/gold/v_awp.mdl
+rm models/gold/v_ak47.mdl
+rm models/gold/p_deagle.mdl
+rm models/gold/p_ak47.mdl
+rm models/gold/w_m4a1.mdl
+rm models/gold/w_ak47.mdl
+rm models/gold/v_deagle.mdl
+rm models/gold/v_m4a1.mdl
+rm models/gold/p_m4a1.mdl
+rm models/gold/p_awp.mdl

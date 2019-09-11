@@ -1,0 +1,209 @@
+
+[class^="game2-"],
+[class*=" game2-"] {
+	display: block;
+	width: 22px;
+	height: 22px;
+	background-size:contain;
+	background-repeat: no-repeat;
+}
+.game2-css{background-image:url(/img/games2/css.png);}
+.game2-rust{background-image:url(/img/games2/rust.png);}
+.game2-cs{background-image:url(/img/games2/cs.png);}
+.game2-cssold{background-image:url(/img/games2/cssold.png);}
+.game2-mc{background-image:url(/img/games2/mc.png);}
+.game2-samp{background-image:url(/img/games2/samp.png);}
+.game2-rwmp{background-image:url(/img/games2/rwmp.png);}
+.game2-crmp{background-image:url(/img/games2/crmp.png);}
+.game2-csgo{background-image:url(/img/games2/csgo.png);}
+.game2-tf2{background-image:url(/img/games2/tf2.png);}
+.game2-l4d{background-image:url(/img/games2/l4d.png);}
+.game2-l4d2{background-image:url(/img/games2/l4d2.png);}
+.game2-dods{background-image:url(/img/games2/dods.png);}
+.game2-gmod{background-image:url(/img/games2/gmod.png);}
+.game2-mta{background-image:url(/img/games2/mta.png);}
+.game2-cszo{background-image:url(/img/games2/cszo.png);}
+.game2-hldm{background-image:url(/img/games2/hldm.png);}
+.game2-gm{background-image:url(/img/games2/gm.png);}
+.game2-kf{background-image:url(/img/games2/kf.png);}
+.game2-ts3{background-image:url(/img/games2/ts3.png);}
+
+.preloader-bar {
+	position: fixed;
+	z-index: 9996;
+	left: 0;
+	right: 0;
+	-webkit-transition: all .15s ease-in-out;
+	transition: all .15s ease-in-out;
+	-webkit-transition: all .15s ease-in-out;
+	-moz-transition: all .15s ease-in-out;
+	-ms-transition: all .15s ease-in-out;
+	-o-transition: all .15s ease-in-out;
+	transition: all .15s ease-in-out;
+	/* visibility: hidden; */
+	text-align: center;
+	top: 40px;
+}
+.preloader-bar .preloader-bar-inner {
+	display: inline-block;
+	padding: 2px 10px 1px;
+	border: 1px solid #4080b4;
+	-webkit-border-bottom-left-radius: 2px;
+	-moz-border-radius-bottomleft: 2px;
+	border-bottom-left-radius: 2px;
+	-webkit-border-bottom-right-radius: 2px;
+	-moz-border-radius-bottomright: 2px;
+	border-bottom-right-radius: 2px;
+	-webkit-box-shadow: 0 1px 15px -1px rgba(0,0,0,.45);
+	box-shadow: 0 1px 15px -1px rgba(0,0,0,.45);
+	-webkit-box-shadow: 0 1px 15px -1px rgba(0,0,0,.45);
+	box-shadow: 0 1px 15px -1px rgba(0,0,0,.45);
+	background-image: -webkit-linear-gradient(top,#53a3f2 0,#3c93d9 100%);
+	background-image: linear-gradient(to bottom,#53a3f2 0,#3c93d9 100%);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff53a3f2', endColorstr='#ff3c93d9', GradientType=0);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	color: #fff;
+	text-shadow: 0 1px 0 rgba(0,0,0,.2);
+}
+.preloader-bar .icon-mx-loading {
+	margin-top: -1px;
+	margin-right: 5px;
+}
+.icon-mx-loading {
+	position: relative;
+	width: 17px;
+	opacity: 1;
+	background-image: url(/img/sprite-icons-mx.08.01.2015.png);
+	background-repeat: no-repeat;
+	background-position: -606px -27px;
+	width: 16px;
+	height: 17px;
+}
+.icon-mx {
+	display: inline-block;
+	width: 16px;
+	height: 17px;
+	opacity: .7;
+	line-height: 13px;
+	vertical-align: text-top;
+	background-image: url(/img/sprite-icons-mx.08.01.2015.png);
+}
+.icon-mx-loading:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 16px;
+	height: 16px;
+	background: url(/img/preloader-gear.gif) 0 0 no-repeat;
+}
+
+
+.easy-pie-chart,
+.sparkline-chart {
+	text-align: center;
+}
+
+.sparkline-chart {
+	margin-top: 15px;
+	position: relative;
+}
+
+.easy-pie-chart .number {
+	font-size: 14px !important;
+	font-weight: 300;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	width: 75px;
+	height: 75px;
+	line-height: 75px;
+}
+.easy-pie-chart .number canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.sparkline-chart .number {
+	width: 100px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.sparkline-chart .title,
+.easy-pie-chart .title {
+	display: block;
+	text-align: center;
+	color: #333;
+	font-weight: 300;
+	font-size: 16px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.sparkline-chart .title:hover,
+.easy-pie-chart .title:hover {
+	color: #666;
+	text-decoration: none;
+}
+
+.sparkline-chart .title > i,
+.easy-pie-chart .title > i {
+	margin-top: 5px;
+}
+.jqstooltip {
+	width: auto !important;
+	height: auto !important;
+}
+
+.easy-pie-chart,
+.sparkline-chart {
+	text-align: center;
+}
+
+.sparkline-chart {
+	margin-top: 15px;
+	position: relative;
+}
+
+.easy-pie-chart .number {
+	font-size: 16px;
+	font-weight: 300;
+	width: 85px;
+	margin: 0 auto;
+}
+
+.sparkline-chart .number {
+	width: 100px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.sparkline-chart .title,
+.easy-pie-chart .title {
+	display: block;
+	text-align: center;
+	color: #333;
+	font-weight: 300;
+	font-size: 16px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.sparkline-chart .title:hover,
+.easy-pie-chart .title:hover {
+	color: #666;
+	text-decoration: none;
+}
+
+.sparkline-chart .title > i,
+.easy-pie-chart .title > i {
+	margin-top: 5px;
+}
+a.btn.btn-icon-only>.fa {
+	margin-top: 3px;
+}

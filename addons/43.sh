@@ -1,0 +1,1 @@
+rm gvar.so

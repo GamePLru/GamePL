@@ -1,0 +1,15 @@
+echo Executing Server Config...
+lanmode 0
+rcon_password changeme
+hostname Adapted 0.3e Server
+gamemode0 simple
+#filterscripts fsdebug fly npc_record
+announce 0
+query 1
+weburl aviras.ru
+maxnpc 1
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 300.0
+stream_rate 1000

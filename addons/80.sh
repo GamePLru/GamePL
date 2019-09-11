@@ -1,0 +1,1 @@
+rm regex.so

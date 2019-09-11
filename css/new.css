@@ -1,0 +1,26 @@
+.settings-tpl{
+    position: fixed;
+    bottom: 0px;
+    left: 20px;
+    /* height: 20px; */
+    /* width: 20px; */
+    background-color: #89C4F4;
+    border-radius: 3px 3px 0px 0px;
+    padding: 9px;
+    border: 1px solid #83B4DB;
+    border-bottom: none;
+}
+.settings-tpl.opened{
+    height: 200px;
+    width: 300px;
+    background-color: #FAFAFA;
+}
+.settings-tpl.opened .open{
+    display: none;
+}
+.settings-tpl .data{
+    display: none;
+}
+.settings-tpl.opened .data{
+    display: block;
+}

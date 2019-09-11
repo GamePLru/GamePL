@@ -1,0 +1,1 @@
+rm ProNick.so

@@ -1,0 +1,1 @@
+rm sql.so

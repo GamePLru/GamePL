@@ -1,0 +1,44 @@
+<servername>Default MTA Server</servername>
+<bandwidth_reduction>medium</bandwidth_reduction> 
+<player_sync_interval>100</player_sync_interval>
+<lightweight_sync_interval>1500</lightweight_sync_interval> 
+<camera_sync_interval>500</camera_sync_interval> 
+<ped_sync_interval>500</ped_sync_interval> 
+<unoccupied_vehicle_sync_interval>1000</unoccupied_vehicle_sync_interval> 
+<keysync_mouse_sync_interval>100</keysync_mouse_sync_interval> 
+<keysync_analog_sync_interval>100</keysync_analog_sync_interval> 
+<bullet_sync>0</bullet_sync> 
+<vehext_percent>0</vehext_percent>
+<vehext_ping_limit>150</vehext_ping_limit>
+<latency_reduction>0</latency_reduction>
+<threadnet>1</threadnet> 
+<idfile>server-id.keys</idfile> 
+<logfile>logs/server.log</logfile>
+<authfile>logs/server_auth.log</authfile>
+<dbfile>logs/db.log</dbfile>
+<acl>acl.xml</acl> 
+<scriptdebuglogfile>logs/scripts.log</scriptdebuglogfile> 
+<scriptdebugloglevel>0</scriptdebugloglevel>
+<htmldebuglevel>0</htmldebuglevel>
+<fpslimit>36</fpslimit>
+<autologin>0</autologin>
+<voice>0</voice>
+<voice_samplerate>1</voice_samplerate>
+<voice_quality>4</voice_quality>
+<backup_path>backups</backup_path>
+<backup_interval>3</backup_interval>
+<backup_copies>5</backup_copies>
+<resource src="admin" startup="1" protected="0"/>
+<resource src="defaultstats" startup="1" protected="0"/>
+<resource src="helpmanager" startup="1" protected="0"/>
+<resource src="joinquit" startup="1" protected="0"/>
+<resource src="mapcycler" startup="1" protected="0"/>
+<resource src="mapmanager" startup="1" protected="0"/>
+<resource src="parachute" startup="1" protected="0"/>
+<resource src="resourcebrowser" startup="1" protected="1" default="true"/>
+<resource src="resourcemanager" startup="1" protected="1"/>
+<resource src="scoreboard" startup="1" protected="0"/>
+<resource src="spawnmanager" startup="1" protected="0"/>
+<resource src="voice" startup="1" protected="0" />
+<resource src="votemanager" startup="1" protected="0"/>
+<resource src="play" startup="1" protected="0"/>

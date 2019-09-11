@@ -1,0 +1,12 @@
+rm addons/amxmodx/data/lang/Sentry.txt
+rm addons/amxmodx/plugins/Sentry_guns.amxx
+rm addons/amxmodx/scripting/Sentry_guns.sma
+rm sound/tf2/alarm.wav
+rm sound/tf2/turrset.wav
+rm sound/tf2/shout.wav
+rm sound/tf2/building.wav
+rm sound/tf2/ping.wav
+rm models/tf2/base.mdl
+rm models/tf2/sentry1.mdl
+rm models/tf2/sentry3.mdl
+rm models/tf2/sentry2.mdl

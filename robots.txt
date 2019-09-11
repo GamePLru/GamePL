@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /addons/
+Disallow: /dev/
+Disallow: /dl/
+Disallow: /js/
+Disallow: /css/
+Disallow: /signup
+Disallow: /login
+Disallow: /login2
+Disallow: /recovery
+Disallow: /deposit
+Disallow: /cache/
+Disallow: /cart

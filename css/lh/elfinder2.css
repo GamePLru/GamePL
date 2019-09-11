@@ -1,0 +1,39 @@
+
+.elfinder {
+	border: none;
+	border-radius: 0px !important;
+}
+.elfinder-toolbar{
+	border: none;
+	background: #FFFFFF;
+	color: #afafaf;
+	border-bottom: 1px solid #eee;
+}
+.elfinder-workzone{
+background: #ffffff;
+}
+.elfinder-statusbar{
+	border: 0px;
+	background: #FFFFFF;
+	border-top: 1px solid #eee;
+}
+.elfinder .elfinder-navbar{
+	background: #FFFFFF;
+	border-right: 1px solid #eee;
+}
+
+.elfinder-toolbar .elfinder-button {
+background: #f6f6f6;
+}
+.elfinder-toolbar  .ui-state-hover {
+background: #ebebeb;
+}
+.elfinder-toolbar>.ui-widget-content {
+border: 1px solid #ddd;
+}
+.elfinder-toolbar>.ui-widget-content>.elfinder-toolbar-button-separator{
+border-left: 1px solid #ddd;
+}
+.elfinder-cwd .ui-state-default{
+background: #f6f6f6;
+}

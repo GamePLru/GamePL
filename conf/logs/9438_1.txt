@@ -1,0 +1,1048 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo: unable to resolve host vps
+Auto detecting CPU
+Using default binary: ./srcds_linux
+Using Breakpad minidump system. Version: 3277112 AppID: 232330
+Setting breakpad minidump AppID = 232330
+Using breakpad crash handler
+Loaded 1335 VPK file hashes from /host/9438/10019/cstrike/cstrike_pak.vpk for pu
+re server operation.
+Loaded 1335 VPK file hashes from /host/9438/10019/cstrike/cstrike_pak.vpk for pu
+re server operation.
+Loaded 1218 VPK file hashes from /host/9438/10019/hl2/hl2_textures.vpk for pure
+server operation.
+Loaded 574 VPK file hashes from /host/9438/10019/hl2/hl2_sound_vo_english.vpk fo
+r pure server operation.
+Loaded 383 VPK file hashes from /host/9438/10019/hl2/hl2_sound_misc.vpk for pure
+ server operation.
+Loaded 446 VPK file hashes from /host/9438/10019/hl2/hl2_misc.vpk for pure serve
+r operation.
+Loaded 5 VPK file hashes from /host/9438/10019/platform/platform_misc.vpk for pu
+re server operation.
+server_srv.so loaded for "Counter-Strike: Source"
+maxplayers set to 10
+dlopen failed trying to load:
+/root/.steam/sdk32/steamclient.so
+with error:
+/root/.steam/sdk32/steamclient.so: cannot open shared object file: Permission de
+nied
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Unknown command "r_decal_cullsize"
+ConVarRef dev_loadtime_map_start doesn't point to an existing ConVar
+maxplayers set to 10
+Network: IP 192.162.240.122, mode MP, dedicated Yes, ports 27003 SV / 42003 CL
+Initializing Steam libraries for secure Internet server
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Could not find steamerrorreporter binary. Any minidumps will be uploaded in-proc
+ess/home/buildbot/buildslave/steam_rel_client_linux/build/src/clientdll/applicat
+ionmanager.cpp (3126) : Assertion Failed: CApplicationManager::GetMountVolume: i
+nvalid index
+Assert( Assertion Failed: CApplicationManager::GetMountVolume: invalid index ):/
+home/buildbot/buildslave/steam_rel_client_linux/build/src/clientdll/applicationm
+anager.cpp:3126
+
+Uploading dump (in-process) [proxy '']
+/tmp/dumps/crash_20160215063917_4.dmp
+success = yes
+response:  Discarded=1
+/home/buildbot/buildslave/steam_rel_client_linux/build/src/clientdll/application
+manager.cpp (3126) : Assertion Failed: CApplicationManager::GetMountVolume: inva
+lid index
+/home/buildbot/buildslave/steam_rel_client_linux/build/src/clientdll/application
+manager.cpp (3277) : Assertion Failed: m_vecInstallBaseFolders.Count() > 0
+Setting breakpad minidump AppID = 240
+dlopen failed trying to load:
+/root/.steam/sdk32/steamclient.so
+with error:
+/root/.steam/sdk32/steamclient.so: cannot open shared object file: Permission de
+nied
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Setting breakpad minidump AppID = 232330
+No account token specified; logging into anonymous game server account.  (Use sv
+_setsteamaccount to login to a persistent account.)
+ConVarRef room_type doesn't point to an existing ConVar
+Executing dedicated server config file server.cfg
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg/mapcycle.txt' was not fo
+und.)
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was n
+ot found.)
+'server.cfg' not present; not executing.
+Server is hibernating
+Connection to Steam servers successful.
+   Public IP is 192.162.240.122.
+Assigned anonymous gameserver Steam ID [A:1:1981281280:6396].
+VAC secure mode is activated.
+Client "ÐÐ¸ÑÑÑ" connected (213.176.246.230:27005).
+Server waking up from hibernation
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 205 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      00:00        0   25 spawning 213.17
+6.246.230:27005
+rcon from "192.162.240.131:35014": command "status"
+Game will not start until both teams have players.
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      00:20       66    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35032": command "status"
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      00:39       54    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35064": command "status"
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      00:59       51    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35081": command "status"
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      01:18       52    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35094": command "status"
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      01:38       55    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35119": command "status"
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      01:58       52    0 active 213.176.
+246.230:27005
+rcon from "192.162.240.131:35140": command "status"
+status
+hostname: Counter-Strike: Source
+version : 3277112/24 3277112 secure
+udp/ip  : 192.162.240.122:27003  (public ip: 192.162.240.122)
+steamid : [A:1:1981281280:6396] (90099465139516416)
+map     : de_dust2 at: 0 x, 0 y, 0 z
+tags    :
+players : 1 humans, 0 bots (10 max)
+edicts  : 210 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#      2 "ÐÐ¸ÑÑÑ"        [U:1:67857626]      04:40       49    0 active 213.176.
+246.230:27005
+Game will not start until both teams have players.
+Dropped ÐÐ¸ÑÑÑ from server (Kicked from server)
+Server is hibernating
+Client "ÐÐ¸ÑÑÑ" connected (213.176.246.230:27005).
+Server waking up from hibernation
+Game will not start until both teams have players.
+Game will not start until both teams have players.
+Dropped ÐÐ¸ÑÑÑ from server (Kicked from server)
+Server is hibernating
+
