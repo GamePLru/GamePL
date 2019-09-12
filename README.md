@@ -22,7 +22,7 @@
 ## How to use
 
 ```
-wget https://raw.githubusercontent.com/GamePLru/install/master/install.sh:chmod 777 install.sh;bash install.sh;
+wget https://raw.githubusercontent.com/GamePLru/install/master/install.sh;chmod 777 install.sh;bash install.sh;
 ```
 ## GameFiles Download
 <a href="https://drive.google.com/file/d/1f6iTmECPcm35Z_3C9imutU8NGgQBWCtz/view">L4D2</a>
